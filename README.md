@@ -1,4 +1,4 @@
-# MSDSP462_CV_Hair_Segmentation
+# MSDSP_462_CV_Hair_Segmentation
 
 
 This repository contains Jupyter Notebooks that implement various deep learning models for face segmentation, specifically focusing on **hair segmentation**. The project explores different architectures to segment hair regions from face images, using the CelebAMask-HQ dataset.
